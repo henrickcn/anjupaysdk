@@ -1,0 +1,25 @@
+{
+  "name": "henrick/anjupaysdk",
+  "description": "自在安居开放平台在线支付PHPSDK",
+  "minimum-stability": "stable",
+  "version": "1.0.0",
+  "type": "library",
+  "keywords": ["自在安居开放平台在线支付PHPSDK"],
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "henrick",
+      "email": "henrick@vip.qq.com",
+      "homepage": "https://www.johnyzone.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Henrick\\anjupaysdk\\" : "src/anjupaysdk/"
+    }
+  },
+  "require": {
+
+  }
+}
